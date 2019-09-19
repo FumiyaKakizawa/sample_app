@@ -1,1 +1,1 @@
-First checkout and add a new file.
+Test checkout and add a new file.
